@@ -4,5 +4,5 @@
 
 ## How can you run it?
 
-- """pip install django"""
-- """pip install pillow"""
+- ```pip install django```
+- ```pip install pillow```
