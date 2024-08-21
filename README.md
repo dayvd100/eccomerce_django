@@ -4,6 +4,5 @@
 
 ## How can you run it?
 
-- ```pip install django```
-- ```pip install pillow```
+- ```pip install -r requirements.txt```
 - ```python manage.py runserver```
