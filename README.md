@@ -2,7 +2,7 @@
 
 ## This is an eccomerce made with Django
 
-## if you are using poetry (like me) you gotta run:
+## You can easily run the project with the following commands:
 
 - ```poetry shell```
 - ```poetry install```
