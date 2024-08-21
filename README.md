@@ -7,4 +7,4 @@
 - ```cd ecommerce_django```
 - ```poetry shell```
 - ```poetry install```
-- ```python manage.py runserver```
+- ```python ecommerce/manage.py runserver```
